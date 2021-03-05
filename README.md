@@ -1,5 +1,8 @@
 # Acute-Kidney-Injury-Research
 
+## MIMIC-III Database Introduction
+MIMIC is an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~60,000 intensive care unit admissions. It includes demographics, vital signs, laboratory tests, medications, and more.
+
 ## Background
 Acute Kidney Injury (AKI) is a clinical syndrome characterized by the rapid (hours to days) loss of the kidney excretory function, and it is associated with mortality greater than 50%. However, the best treatment strategy remains uncertain. In particular, evidence suggests that current practices in the administration of nephrotoxic medications are likely induce harm in a proportion of patients. 
 
